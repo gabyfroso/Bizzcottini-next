@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[931],{6568:function(n,t,e){Promise.resolve().then(e.t.bind(e,6856,23))},6856:function(n){n.exports={title:"mainpage_title__XWsK8",main:"mainpage_main__G2AtA",buttonElect:"mainpage_buttonElect__o3HVE"}}},function(n){n.O(0,[471,971,23,744],function(){return n(n.s=6568)}),_N_E=n.O()}]);
